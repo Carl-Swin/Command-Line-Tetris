@@ -5,12 +5,6 @@ F2 = Tetris
 F3 = $(F2)_Game
 F4 = $(F2)_Input
 
-# $  : denotes variables
-# $@ : this is the name of the target
-# $< : this is the name of the first prerequisite
-# $^ : this is the names of all the prerequisites
-
-
 all: $(F2).exe
 
 cnsl: $(F2)_cnsl.exe

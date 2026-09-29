@@ -2,8 +2,8 @@
 Last modified before uploading to Github: 2024-10-15 | Starting code for a Tetris game that runs in the windows terminal. Uses Windows-dependent ascii definitions for graphics.
 ___
 
-![Alt text](Photos/Menu.png)
-![Alt text](Photos/Gameplay.png)
+| ![Alt text](Photos/Menu.png) | ![Alt text](Photos/Gameplay.png) |
+| :---: | :---: |
 
 Controls:
 
